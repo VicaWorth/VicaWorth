@@ -1,6 +1,16 @@
+<p align="center"><i>"e più d’onore ancora assai mi fenno, ch’e’ sì mi fecer de la loro schiera."</i><br>
+<sub><i>"And they honoured me far beyond courtesy, For they included me in their own number."</i></sub></p>
+<p align="center">Dante Alighieri, Inferno, Canto IV</p>
+
 # Hi there, I'm Vica! 👋
 
 I'm a **Computer Science student** at California State University, Chico, with a passion for **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I'm enthusiastic about leveraging technology to solve real-world problems and am always eager to learn and collaborate on innovative projects.
+
+## 📊 GitHub Stats
+
+![Vica's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicaWorth&show_icons=true&theme=nord)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicaWorth&layout=compact&theme=nord)
 
 ## 🛠 Tech Stack
 
@@ -64,12 +74,6 @@ I'm a **Computer Science student** at California State University, Chico, with a
 - **GitHub:** [github.com/VicaWorth](https://github.com/VicaWorth)
 - **LinkedIn:** [linkedin.com/in/vicaworth](https://www.linkedin.com/in/vicaworth/)
 - **Email:** [Contact via LinkedIn](https://www.linkedin.com/in/vicaworth/)
-
-## 📊 GitHub Stats
-
-![Vica's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicaWorth&show_icons=true&theme=nord)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicaWorth&layout=compact&theme=nord)
 
 ## 🏆 Awards & Achievements
 

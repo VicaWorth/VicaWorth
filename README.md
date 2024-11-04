@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![VicaWorth's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicaWorth)](https://github.com/anuraghazra/github-readme-stats)
+[![VicaWorth's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicaWorth)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 <!--
 **VicaWorth/VicaWorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

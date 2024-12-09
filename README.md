@@ -9,7 +9,7 @@ I'm a **Computer Science student** at California State University, Chico, with a
 ## 📊 GitHub Stats
 
 ![Vica's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicaWorth&show_icons=true&theme=nord)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicaWorth&layout=compact&theme=nord&exclude_repo=notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicaWorth&layout=compact&theme=nord&hide=Jupyter%20Notebook)
 
 ## 🛠 Tech Stack
 

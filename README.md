@@ -4,13 +4,12 @@
 
 # Hi there, I'm Vica! 👋
 
-I'm a **Computer Science student** at California State University, Chico, with a passion for **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I'm enthusiastic about leveraging technology to solve real-world problems and am always eager to learn and collaborate on innovative projects.
+I'm a **Computer Science student** at California State University, Chico, with a passion for **Artificial Intelligence** and **Software Engineering**. I'm enthusiastic about leveraging technology to solve real-world problems and am always eager to learn and collaborate on innovative projects.
 
 ## 📊 GitHub Stats
 
 ![Vica's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicaWorth&show_icons=true&theme=nord)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicaWorth&layout=compact&theme=nord)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicaWorth&layout=compact&theme=nord&exclude_repo=notebook)
 
 ## 🛠 Tech Stack
 
@@ -34,19 +33,19 @@ I'm a **Computer Science student** at California State University, Chico, with a
 
 ## 🚀 Key Projects
 
-### [Fermata Energy Load Forecasting](#)
-*Leveraging data science to forecast energy usage in buildings.*
+### [Fermata Energy Load Forecasting](https://github.com/mainoahmuna/FermataEnergy_BTTStudio)
+*Utilizing data science and machine learning to forecast energy usage in buildings.*
 
 - **Technologies:** Python, Pandas, Scikit-Learn, Plotly
 - **Description:** Developed models to forecast daily energy loads for buildings using machine learning techniques. Visualized time series data and metadata to provide comprehensive analysis and insights for energy management.
 
-### [Cat Genetic Simulator](#)
+### [Cat Genetic Simulator](https://github.com/VicaWorth/dbot_cat)
 *A Python-based Discord bot simulating cat genetics.*
 
 - **Technologies:** Python, Pandas, NumPy, MySQL, Discord.py
 - **Description:** Created a real-time simulator that models cat genetics, allowing users to create, save, and breed virtual cats. Managed gene information and heredity modeling for accurate and engaging simulations.
 
-### [Butte College SLO Web Scraper](#)
+### [Butte College SLO Web Scraper](https://github.com/VicaWorth/csci-36)
 *A web application to streamline data collection for academic assessments.*
 
 - **Technologies:** HTML, CSS, EJS, Express.js, Node.js, SQL, AWS
@@ -54,32 +53,10 @@ I'm a **Computer Science student** at California State University, Chico, with a
 
 *✨ Feel free to check out more of my projects [here](https://github.com/VicaWorth?tab=repositories).*
 
-## 🌱 Extracurriculars & Interests
-
-- **Leadership:**
-  - Vice President of **ACM-W** at CSU Chico, promoting women's participation in computing.
-  - **Association for Computing Machinery (ACM):** Organize and host technical events such as hackathons and coding workshops to foster collaboration and learning among students.
-
-- **Clubs:**
-  - Active member of the **Technical Projects Club (TCP)**
-
-- **Hobbies:**
-  - Mentoring fellow students in programming
-  - Exploring the latest advancements in AI and Machine Learning
-  - Hosting technical events to bring the community together
-  - Contributing to open-source projects
-
-## 📫 Contact Me
-
-- **GitHub:** [github.com/VicaWorth](https://github.com/VicaWorth)
-- **LinkedIn:** [linkedin.com/in/vicaworth](https://www.linkedin.com/in/vicaworth/)
-- **Email:** [Contact via LinkedIn](https://www.linkedin.com/in/vicaworth/)
-
 ## 🏆 Awards & Achievements
-
 - Selected as a **Breakthrough Tech AI Fellow** among 3,000+ applicants
 - Earned the **Machine Learning Foundations Certificate** from Cornell University
 
-<!--
-**VicaWorth/VicaWorth** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 📫 Contact Me
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vicaworth)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicaworth/)
